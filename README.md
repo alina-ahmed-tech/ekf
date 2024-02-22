@@ -10,7 +10,8 @@ I also visualised:
   b.	The estimated covariance ellipse at each current estimated state. 
 
 The following graph is generated from my code:
-<img width="1456" alt="Screenshot 2024-02-22 at 02 24 15" src="https://github.com/alina-ahmed-tech/ekf/assets/130942761/c5e04f53-a609-4db9-9317-ae8753766bdd">
+<img width="1487" alt="Screenshot 2024-02-22 at 02 34 22" src="https://github.com/alina-ahmed-tech/ekf/assets/130942761/eda852c9-2632-4da9-b3fc-4487cbd56bfb">
+
 
 Where:
   •	The orange ellipses represent the estimated covariance ellipses at each current estimated state. 
